@@ -20,6 +20,11 @@ A modern, intelligent web application that transforms natural language queries i
 - **⚡ Fast Performance**: Built with Vite for lightning-fast development and builds
 - **🎯 Sample Queries**: Pre-built examples to get you started quickly
 
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/d4d39bbe-df50-47f1-9d16-6722ba712dd3)
+
+
 ## 🛠️ Tech Stack
 
 ### Frontend
