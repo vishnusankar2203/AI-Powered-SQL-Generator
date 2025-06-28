@@ -209,22 +209,7 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
 
-- **shadcn/ui** for the beautiful component library
-- **Radix UI** for accessible UI primitives
-- **Vite** for the fast build tool
-- **Tailwind CSS** for the utility-first CSS framework
-
-## 📞 Support
-
-If you have any questions or need help:
-
-- 📧 Email: [your-email@example.com]
-- 🐛 Issues: [GitHub Issues](https://github.com/vishnusankar2203/AI-Powered-SQL-Generator/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/vishnusankar2203/AI-Powered-SQL-Generator/discussions)
-
----
 
 <div align="center">
   <p>Made with ❤️ by <a href="https://github.com/vishnusankar2203">Vishnu Sankar</a></p>
