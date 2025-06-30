@@ -8,6 +8,8 @@ A modern, intelligent web application that transforms natural language queries i
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+🔗 Live Demo: ai-powered-sql-generator.vercel.app
+
 ## ✨ Features
 
 - **🧠 Natural Language Processing**: Convert plain English questions into SQL queries
